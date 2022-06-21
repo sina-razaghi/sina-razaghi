@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python OpenCV
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on DigitCU
-- 📫 How to reach me: sina.razaghi@gmail.com
+- 📫 How to reach me: sina.razaghi79@gmail.com
