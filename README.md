@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 
-**sina-razaghi/sina-razaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Sina Razaghi Kashani**. 
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence Engineer🤖.
+Skilled at developing intelligent systems using: 
+- Machine Learning
+- Deep Learning
 
-- 🔭 I’m currently working on Python OpenCV
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on DigitCU
-- 📫 How to reach me: sina.razaghi79@gmail.com
+On subjects like:
+  - Computer Vision
+  - Natural Language Processing
+
+It's my email: sina.razaghi79@gmail.com
